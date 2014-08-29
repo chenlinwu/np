@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;triecomplete/short&apos; to &apos;short.txt&apos;" description="Rename resource &apos;short&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="short" name="short.txt" stamp="1405623721768" updateReferences="true"/>
+</session>

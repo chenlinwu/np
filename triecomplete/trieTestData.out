@@ -1,0 +1,48 @@
+WORD_COUNT 3 Noramalize true Traversal: DFS
+Initialization time: 55 ms
+500 search for 1000 names:
+100 names in the dictionary
+Trie Size:469 36 333 
+Search time: 1310 ms
+WORD_COUNT 3 Noramalize true Traversal: DFS
+Initialization time: 72 ms
+500 search for 1000 names:
+200 names in the dictionary
+Trie Size:830 54 553 
+Search time: 1476 ms
+WORD_COUNT 3 Noramalize true Traversal: DFS
+Initialization time: 88 ms
+500 search for 1000 names:
+300 names in the dictionary
+Trie Size:1257 66 836 
+Search time: 1648 ms
+WORD_COUNT 3 Noramalize true Traversal: DFS
+Initialization time: 98 ms
+500 search for 1000 names:
+400 names in the dictionary
+Trie Size:1477 87 1004 
+Search time: 1636 ms
+WORD_COUNT 3 Noramalize true Traversal: DFS
+Initialization time: 111 ms
+500 search for 1000 names:
+500 names in the dictionary
+Trie Size:1790 101 1146 
+Search time: 1863 ms
+WORD_COUNT 3 Noramalize true Traversal: DFS
+Initialization time: 120 ms
+500 search for 1000 names:
+600 names in the dictionary
+Trie Size:1959 115 1266 
+Search time: 1705 ms
+WORD_COUNT 3 Noramalize true Traversal: DFS
+Initialization time: 130 ms
+500 search for 1000 names:
+700 names in the dictionary
+Trie Size:2145 114 1300 
+Search time: 1697 ms
+WORD_COUNT 3 Noramalize true Traversal: DFS
+Initialization time: 173 ms
+500 search for 1000 names:
+800 names in the dictionary
+Trie Size:2348 152 1453 
+Search time: 1707 ms

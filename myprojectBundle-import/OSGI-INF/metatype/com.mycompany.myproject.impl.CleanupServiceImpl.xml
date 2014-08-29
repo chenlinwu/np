@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/com.mycompany.myproject.impl.CleanupServiceImpl">
+    <OCD id="com.mycompany.myproject.impl.CleanupServiceImpl" name="%com.mycompany.myproject.impl.CleanupServiceImpl.name" description="%com.mycompany.myproject.impl.CleanupServiceImpl.description">
+        <AD id="scheduler.expression" type="String" default="*\ /5\ *\ *\ *\ *\ ?" name="%com.mycompany.myproject.impl.CleanupServiceImpl.scheduler.expression.name" description="%com.mycompany.myproject.impl.CleanupServiceImpl.scheduler.expression.description"/>
+        <AD id="cleanupPath" type="String" default="/mypath" name="%com.mycompany.myproject.impl.CleanupServiceImpl.cleanupPath.name" description="%com.mycompany.myproject.impl.CleanupServiceImpl.cleanupPath.description"/>
+    </OCD>
+    <Designate pid="com.mycompany.myproject.impl.CleanupServiceImpl">
+        <Object ocdref="com.mycompany.myproject.impl.CleanupServiceImpl"/>
+    </Designate>
+</metatype:MetaData>

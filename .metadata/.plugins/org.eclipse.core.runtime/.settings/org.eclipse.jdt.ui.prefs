@@ -1,0 +1,45 @@
+content_assist_add_import=true
+content_assist_autoactivation=true
+content_assist_autoactivation_delay=300
+content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxyz
+content_assist_autoactivation_triggers_javadoc=@\#
+content_assist_autoinsert=false
+content_assist_case_sensitivity=false
+content_assist_disabled_computers=org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000
+content_assist_fill_method_arguments=true
+content_assist_guess_method_arguments=false
+content_assist_insert_completion=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.LinkedList"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Deque"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.LinkedList"/><rhs name\="java.util.Locale"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.Queue"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.AbstractSequentialList"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.LinkedList"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.io.InputStreamReader"><rhs name\="java.io.FileReader"/></lhs><lhs name\="java.io.Reader"><rhs name\="java.io.BufferedReader"/><rhs name\="java.io.InputStreamReader"/><rhs name\="java.io.FileReader"/></lhs><lhs name\="java.lang.Readable"><rhs name\="java.io.BufferedReader"/><rhs name\="java.io.InputStreamReader"/><rhs name\="java.io.FileReader"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.FileInputStream"/><rhs name\="java.io.BufferedReader"/><rhs name\="java.io.InputStreamReader"/><rhs name\="java.io.FileReader"/></lhs><lhs name\="java.io.FileReader"><rhs name\="java.io.FileReader"/></lhs><lhs name\="java.io.BufferedReader"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.FileInputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="trieComplete.TrieComplete"><rhs name\="trieComplete.TrieComplete"/></lhs><lhs name\="java.util.Random"><rhs name\="java.util.Random"/></lhs><lhs name\="java.lang.IllegalArgumentException"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.lang.RuntimeException"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.lang.NumberFormatException"/><rhs name\="org.apache.sling.api.resource.LoginException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.lang.NumberFormatException"/><rhs name\="org.apache.sling.api.resource.LoginException"/></lhs><lhs name\="java.lang.NumberFormatException"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.lang.Enum"><rhs name\="trieComplete.TrieComplete$TRAVERSAL_ENUM"/></lhs><lhs name\="trieComplete.TrieComplete$TRAVERSAL_ENUM"><rhs name\="trieComplete.TrieComplete$TRAVERSAL_ENUM"/></lhs><lhs name\="org.apache.sling.commons.json.JSONObject"><rhs name\="org.apache.sling.commons.json.JSONObject"/></lhs><lhs name\="com.day.cq.replication.ReplicationAction"><rhs name\="com.day.cq.replication.ReplicationAction"/></lhs><lhs name\="org.apache.sling.api.resource.LoginException"><rhs name\="org.apache.sling.api.resource.LoginException"/></lhs><lhs name\="org.apache.sling.commons.json.JSONArray"><rhs name\="org.apache.sling.commons.json.JSONArray"/></lhs></history>
+content_assist_number_of_computers=21
+content_assist_prefix_completion=false
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+content_assist_show_visible_proposals=true
+content_assist_sorter=org.eclipse.jdt.ui.RelevanceSorter
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Monaco|11.0|0|COCOA|1|;
+proposalOrderMigrated=true
+sourceHoverBackgroundColor=250,251,197
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+jd.ide.eclipse.prefs.Align=true
+jd.ide.eclipse.prefs.DisplayLineNumbers=true
+net.sf.feeling.decompiler.use_eclipse_formatter=false

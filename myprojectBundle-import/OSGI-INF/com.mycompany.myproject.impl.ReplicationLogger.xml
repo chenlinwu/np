@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0">
+    <scr:component immediate="true" name="com.mycompany.myproject.impl.ReplicationLogger">
+        <implementation class="com.mycompany.myproject.impl.ReplicationLogger"/>
+        <service servicefactory="false">
+            <provide interface="org.osgi.service.event.EventHandler"/>
+        </service>
+        <property name="event.topics" value="com/day/cq/replication"/>
+        <property name="service.pid" value="com.mycompany.myproject.impl.ReplicationLogger"/>
+        <reference name="jcrResourceResolverFactory" interface="org.apache.sling.jcr.resource.JcrResourceResolverFactory" cardinality="1..1" policy="static" bind="bindJcrResourceResolverFactory" unbind="unbindJcrResourceResolverFactory"/>
+    </scr:component>
+</components>

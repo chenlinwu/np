@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component name="com.mycompany.myproject.impl.SearchServlet">
+        <implementation class="com.mycompany.myproject.impl.SearchServlet"/>
+        <service servicefactory="false">
+            <provide interface="javax.servlet.Servlet"/>
+        </service>
+        <property name="sling.servlet.resourceTypes">
+            geometrixx/components/homepage
+        </property>
+        <property name="sling.servlet.selectors">
+            search
+        </property>
+        <property name="service.pid" value="com.mycompany.myproject.impl.SearchServlet"/>
+    </scr:component>
+</components>

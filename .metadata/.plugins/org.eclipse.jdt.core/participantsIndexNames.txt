@@ -1,0 +1,15 @@
+INDEX VERSION 1.127
+/Users/cwu/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2677548738.index
+/myproject-content/src/main/content/jcr_root
+/Users/cwu/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/749608315.index
+/myproject-content/src/main/content/jcr_root
+/Users/cwu/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1484918037.index
+/myproject-content/src/main/content/jcr_root
+/Users/cwu/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1791778851.index
+/triecomplete/src
+/Users/cwu/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3966763733.index
+/myproject-content/src/main/content/jcr_root
+/Users/cwu/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3659284425.index
+/myproject-content/src/main/content/jcr_root
+/Users/cwu/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1564681558.index
+/myproject-content/src/main/content/jcr_root
