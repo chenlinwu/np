@@ -727,7 +727,6 @@
 	<bundle bundleID="116" localization="plugin" name="%pluginName" provider="%providerName"/>
 	<bundle bundleID="117" localization="plugin" name="%pluginName" provider="%providerName"/>
 	<bundle bundleID="114" class="org.eclipse.datatools.connectivity.internal.ui.ConnectivityUIPlugin" localization="plugin" name="%Plugin.Name" provider="%Plugin.ProviderName"/>
-	<bundle bundleID="840" name="myproject-bundle"/>
 	<bundle bundleID="115" class="org.eclipse.datatools.connectivity.ui.dse.DSEPlugin" localization="plugin" name="%Plugin.Name" provider="%Plugin.ProviderName"/>
 	<bundle bundleID="112" class="org.eclipse.datatools.connectivity.sqm.core.internal.ui.RDBCoreUIPlugin" localization="plugin" name="%pluginName" provider="%providerName"/>
 	<bundle bundleID="113" class="org.eclipse.datatools.connectivity.sqm.server.internal.ui.ServerUIPlugin" localization="plugin" name="%pluginName" provider="%providerName"/>

@@ -1,25 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="trieComplete.TrieNode.state"/>
-<fullyQualifiedTypeName name="java.util.Queue"/>
-<fullyQualifiedTypeName name="java.util.LinkedList"/>
-<fullyQualifiedTypeName name="trieComplete.TrieNode"/>
-<fullyQualifiedTypeName name="trieComplete.TrieComplete.TRAVERSAL_ENUM"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="trieComplete.TrieComplete"/>
-<fullyQualifiedTypeName name="org.apache.sling.commons.json.JSONException"/>
-<fullyQualifiedTypeName name="javax.jcr.Repository"/>
-<fullyQualifiedTypeName name="org.apache.sling.event.JobProcessor"/>
-<fullyQualifiedTypeName name="com.mycompany.myproject.ReplicationLogger"/>
-<fullyQualifiedTypeName name="org.osgi.service.event.Event"/>
-<fullyQualifiedTypeName name="org.osgi.service.event.EventHandler"/>
-<fullyQualifiedTypeName name="org.apache.sling.event.jobs.JobProcessor"/>
-<fullyQualifiedTypeName name="org.apache.felix.scr.annotations.Reference"/>
-<fullyQualifiedTypeName name="com.day.cq.wcm.api.Page"/>
-<fullyQualifiedTypeName name="org.apache.felix.scr.annotations.References"/>
-<fullyQualifiedTypeName name="org.apache.sling.jcr.resource.JcrResourceResolverFactory"/>
-<fullyQualifiedTypeName name="org.apache.sling.api.resource.ResourceResolver"/>
-<fullyQualifiedTypeName name="com.day.cq.replication.ReplicationAction"/>
 <fullyQualifiedTypeName name="com.day.cq.replication.ReplicationActionType"/>
 <fullyQualifiedTypeName name="org.apache.sling.api.resource.LoginException"/>
 <fullyQualifiedTypeName name="java.util.Dictionary"/>
@@ -47,7 +27,6 @@
 <fullyQualifiedTypeName name="org.apache.sling.commons.json.JSONArray"/>
 <fullyQualifiedTypeName name="com.day.cq.wcm.api.PageManager"/>
 <fullyQualifiedTypeName name="javax.jcr.ValueFactory"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="aQute.lib.osgi.Constants"/>
 <fullyQualifiedTypeName name="javax.jcr.query.qom.Constraint"/>
 <fullyQualifiedTypeName name="javax.jcr.query.qom.QueryObjectModelFactory"/>
@@ -60,4 +39,25 @@
 <fullyQualifiedTypeName name="javax.jcr.query.QueryManager"/>
 <fullyQualifiedTypeName name="javax.jcr.query.qom.And"/>
 <fullyQualifiedTypeName name="javax.jcr.query.Query"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.awt.datatransfer.StringSelection"/>
+<fullyQualifiedTypeName name="java.lang.Character.Subset"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.awt.Point"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.nio.channels.Pipe"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="javax.naming.spi.DirStateFactory.Result"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

@@ -2,8 +2,8 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item value="263" key="DIALOG_WIDTH"/>
-		<item value="276" key="DIALOG_Y_ORIGIN"/>
-		<item value="745" key="DIALOG_X_ORIGIN"/>
+		<item value="286" key="DIALOG_Y_ORIGIN"/>
+		<item value="667" key="DIALOG_X_ORIGIN"/>
 		<item value="399" key="DIALOG_HEIGHT"/>
 		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
 	</section>
@@ -13,18 +13,19 @@
 		<item value="false" key="isRegEx"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="c300" key="selection"/>
+		<item value="&quot;or&quot;" key="selection"/>
 		<list key="findhistory">
-			<item value="c300"/>
-			<item value="lj60"/>
-			<item value="case"/>
-			<item value="learjet60"/>
-			<item value="learjet50"/>
-			<item value="lear"/>
-			<item value="ignore"/>
-			<item value="get("/>
+			<item value="&quot;or&quot;"/>
+			<item value="vision"/>
+			<item value="show"/>
+			<item value="i18n"/>
+			<item value="lang"/>
+			<item value="tabs[i]"/>
+			<item value="i18"/>
+			<item value="highlight"/>
 		</list>
 		<list key="replacehistory">
+			<item value="N"/>
 			<item value=""/>
 			<item value="nPeople"/>
 		</list>
